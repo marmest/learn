@@ -7,3 +7,5 @@ ucenje osnova gita i githuba...
 jos malo teksta.
 
 i jos malo.
+
+opop
